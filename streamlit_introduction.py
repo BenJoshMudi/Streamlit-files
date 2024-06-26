@@ -80,3 +80,4 @@ level = st.slider("Select the level: ", 1, 5)
 
 st.text("selected: {}". format(level))
 
+
